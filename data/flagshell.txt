@@ -1,0 +1,11 @@
+http://119.29.147.75:8801/.crons.php?pass=ymlsec,cmd,post
+http://119.29.147.75:8802/.crons.php?pass=ymlsec,cmd,post
+http://119.29.147.75:8803/.crons.php?pass=ymlsec,cmd,post
+http://119.29.147.75:8804/.crons.php?pass=ymlsec,cmd,post
+http://119.29.147.75:8805/.crons.php?pass=ymlsec,cmd,post
+http://119.29.147.75:8806/.crons.php?pass=ymlsec,cmd,post
+http://119.29.147.75:8807/.crons.php?pass=ymlsec,cmd,post
+http://119.29.147.75:8808/.crons.php?pass=ymlsec,cmd,post
+http://119.29.147.75:8809/.crons.php?pass=ymlsec,cmd,post
+http://119.29.147.75:8810/.crons.php?pass=ymlsec,cmd,post
+http://119.29.147.75:8811/.crons.php?pass=ymlsec,cmd,post

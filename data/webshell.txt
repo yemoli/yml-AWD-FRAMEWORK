@@ -1,0 +1,11 @@
+http://119.29.147.75:8801/a.php,c,post
+http://119.29.147.75:8802/a.php,c,post
+http://119.29.147.75:8803/a.php,c,post
+http://119.29.147.75:8804/a.php,c,post
+http://119.29.147.75:8805/a.php,c,post
+http://119.29.147.75:8806/a.php,c,post
+http://119.29.147.75:8807/a.php,c,post
+http://119.29.147.75:8808/a.php,c,post
+http://119.29.147.75:8809/a.php,c,post
+http://119.29.147.75:8810/a.php,c,post
+http://119.29.147.75:8811/a.php,c,post
